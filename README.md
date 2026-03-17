@@ -18,7 +18,6 @@
 - 🤖 Currently participating in **IndiaAI Innovation Challenge 2026** 
 - 🏆 Building AI-powered voice solutions for MSMEs
 - 📍 Based in Punjab, India
-- 🎯 **Challenge Deadline:** February 22, 2026
 
 ## 💼 Current Work
 
