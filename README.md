@@ -115,7 +115,7 @@ const akshit = {
 </div>
 
 - 🏢 **Institution:** Indian Institute of Management Amritsar
-- 📧 **Email:** akshits_mca2107704@ahead.students.amrita.edu
+- 📧 **Email:** akshit08sharma@gmail.com
 - 📍 **Location:** Punjab, India
 - 💼 **Open to:** Collaborations on AI/ML projects
 
