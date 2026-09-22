@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Academic Associate @ Indian Institute of Management Amritsar
+###Indian Institute of Management Amritsar
 ### Full-Stack Developer | AI Enthusiast | IndiaAI Challenge 2026 Participant
 
 [![GitHub followers](https://img.shields.io/github/followers/Akshit14082000?label=Follow&style=social)](https://github.com/Akshit14082000)
